@@ -1,0 +1,9 @@
+https://stackoverflow.com
+https://docs.python.org/3/tutorial
+https://stackoverflow.com/questions/43485263/python-except-syntax-error/43485338
+https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response
+https://stackoverflow.com/questions/2847386/python-string-and-integer-concatenation
+https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-dataframe-in-pandas-python
+https://stackoverflow.com/questions/492387/indentationerror-unindent-does-not-match-any-outer-indentation-level
+https://docs.google.com/presentation/d/10RnYbC44VFdzEh7qwsZq0JEaq8Gg0kgKgS8s8Dh_8ZY/edit#slide=id.g80a2ee6475_0_0
+https://nfpdiscussions.udacity.com/t/project-1-time-stats-function-followed/34036(Discourse)
